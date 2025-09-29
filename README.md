@@ -1,3 +1,6 @@
+
+![asteroids game screenshot](pygame.png)
+
 # Asteroids (Python)
 
 A simple 2D asteroid-shooting game written in Python. Your goal is to shoot as many asteroids as possible without colliding with any. Larger asteroids break into smaller ones when hit.
@@ -36,14 +39,14 @@ A simple 2D asteroid-shooting game written in Python. Your goal is to shoot as m
 To set up: </br>
   git clone https://github.com/eraldvelcani/asteroids.git </br>
   cd asteroids </br>
-  pip install -r requirements.txt </br>
+  - Make sure you have Python and pygame installed. </br>
 
 ---
 
 ## How to Play
 
 Run the game: </br>
-python main.py </br>
+python3 main.py </br>
 
 Controls (example — adapt if different in your implementation): </br>
   Arrow keys or WASD for moving / rotating; </br>
